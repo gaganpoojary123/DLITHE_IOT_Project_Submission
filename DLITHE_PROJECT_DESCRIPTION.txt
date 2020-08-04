@@ -16,5 +16,5 @@ to open the door on entering correct key/master password.Piezo buzzer is used to
 10 seconds it closes automatically ,but using the same servo. 
 The key password is :5858
 The master password is:585D
-Here I have assumed that the Managing Director of the bank makes no mistake while entering the password.
+Here I have assumed that the Managing Director of the bank makes no mistake while entering the Master password.
 
