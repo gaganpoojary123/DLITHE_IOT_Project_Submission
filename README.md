@@ -10,5 +10,5 @@ You can download it using this link: https://github.com/arduino-libraries/Liquid
 # 3)<Servo.h>
 This library can control a great number of servos.It makes careful use of timers: the library can control 12 servos using only 1 timer.<On the Arduino Due you can control up to 60 servos.You can download it using this link:https://github.com/arduino-libraries/Servo
 # TINKERCAD Simulation
-The simulation of my working is given in this link below:
+The simulation of my work is given in this link below:
 https://www.tinkercad.com/things/kiSALORzfoX-strong-room-security/editel?sharecode=NbYrej5AeA5R5q0RmXuzvEDcSsVcn94Mk3bXK1NREUQ
