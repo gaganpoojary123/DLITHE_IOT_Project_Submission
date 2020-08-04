@@ -1,0 +1,20 @@
+DLITHE INTERNSHIP (JULY 2020)
+
+Project Title-Strong room security
+Submitted by:Gagan P Poojary
+
+Problem statement:
+Build a strong room security system for a bank that accepts alphanumeric 'Key' password but will display only asterisks in the screen when password digits are entered. 
+When access is denied with wrong passwords, red lights blink for the number of times the password is tried.
+Upon 3 unsuccessful attempts, it raises long non-stop sound alarm together with continuous red light blinking which can only be stopped by entering a 'Master' password 
+which is not same as the previous 'Key' password that is only known to the Managing Director of the bank. 
+For correct 'Key' password and 'Master' password, the strong will be opened with a green light getting turned on as long as the door is open. 
+
+Description:
+The working is same as that of the problem statement.But an optional part was given in the statement which I am unable to simulate due to non availability of GPIO pin.I have used SG90 servo motor
+to open the door on entering correct key/master password.Piezo buzzer is used to raise an alarm on three unsuccesful trials.On entering correct 'master' password door opens and after
+10 seconds it closes automatically ,but using the same servo. 
+The key password is :5858
+The master password is:585D
+Here I have assumed that the Managing Director of the bank makes no mistake while entering the password.
+
