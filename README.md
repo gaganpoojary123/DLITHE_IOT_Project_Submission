@@ -1,4 +1,4 @@
-# dlithe_project_submission
+# DLITHE IOT INTERNSHIP-PROJECT SUBMISSION
 # LIBRARIES USED
 (You can install these libraries in the Arduino IDE.Follow these steps:- Sketch>Include Library>Manage Libraries. Now type the respective library name)
 # 1)<Keypad.h>:
